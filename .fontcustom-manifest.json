@@ -1,0 +1,646 @@
+{
+  "checksum": {
+    "previous": "befc36341d9795c51945d4d132517a7a43b373e6729bcf895007dff085d6c17e",
+    "current": "befc36341d9795c51945d4d132517a7a43b373e6729bcf895007dff085d6c17e"
+  },
+  "fonts": [
+    "output/fonts/JustVector_befc36341d9795c51945d4d132517a7a.ttf",
+    "output/fonts/JustVector_befc36341d9795c51945d4d132517a7a.svg",
+    "output/fonts/JustVector_befc36341d9795c51945d4d132517a7a.woff",
+    "output/fonts/JustVector_befc36341d9795c51945d4d132517a7a.eot"
+  ],
+  "glyphs": {
+    "aim": {
+      "codepoint": 61696,
+      "source": "justvector/aim.svg"
+    },
+    "aim_alt": {
+      "codepoint": 61697,
+      "source": "justvector/aim_alt.svg"
+    },
+    "amazon": {
+      "codepoint": 61698,
+      "source": "justvector/amazon.svg"
+    },
+    "app_store": {
+      "codepoint": 61699,
+      "source": "justvector/app_store.svg"
+    },
+    "apple": {
+      "codepoint": 61700,
+      "source": "justvector/apple.svg"
+    },
+    "arto": {
+      "codepoint": 61701,
+      "source": "justvector/arto.svg"
+    },
+    "aws": {
+      "codepoint": 61702,
+      "source": "justvector/aws.svg"
+    },
+    "baidu": {
+      "codepoint": 61703,
+      "source": "justvector/baidu.svg"
+    },
+    "basecamp": {
+      "codepoint": 61704,
+      "source": "justvector/basecamp.svg"
+    },
+    "bebo": {
+      "codepoint": 61705,
+      "source": "justvector/bebo.svg"
+    },
+    "behance": {
+      "codepoint": 61706,
+      "source": "justvector/behance.svg"
+    },
+    "bing": {
+      "codepoint": 61707,
+      "source": "justvector/bing.svg"
+    },
+    "blip": {
+      "codepoint": 61708,
+      "source": "justvector/blip.svg"
+    },
+    "blogger": {
+      "codepoint": 61709,
+      "source": "justvector/blogger.svg"
+    },
+    "bnter": {
+      "codepoint": 61710,
+      "source": "justvector/bnter.svg"
+    },
+    "brightkite": {
+      "codepoint": 61711,
+      "source": "justvector/brightkite.svg"
+    },
+    "cinch": {
+      "codepoint": 61712,
+      "source": "justvector/cinch.svg"
+    },
+    "cloudapp": {
+      "codepoint": 61713,
+      "source": "justvector/cloudapp.svg"
+    },
+    "coroflot": {
+      "codepoint": 61714,
+      "source": "justvector/coroflot.svg"
+    },
+    "creative_commons": {
+      "codepoint": 61715,
+      "source": "justvector/creative_commons.svg"
+    },
+    "dailybooth": {
+      "codepoint": 61716,
+      "source": "justvector/dailybooth.svg"
+    },
+    "delicious": {
+      "codepoint": 61717,
+      "source": "justvector/delicious.svg"
+    },
+    "designbump": {
+      "codepoint": 61718,
+      "source": "justvector/designbump.svg"
+    },
+    "designfloat": {
+      "codepoint": 61719,
+      "source": "justvector/designfloat.svg"
+    },
+    "designmoo": {
+      "codepoint": 61720,
+      "source": "justvector/designmoo.svg"
+    },
+    "deviantart": {
+      "codepoint": 61721,
+      "source": "justvector/deviantart.svg"
+    },
+    "digg": {
+      "codepoint": 61722,
+      "source": "justvector/digg.svg"
+    },
+    "digg_alt": {
+      "codepoint": 61723,
+      "source": "justvector/digg_alt.svg"
+    },
+    "diigo": {
+      "codepoint": 61724,
+      "source": "justvector/diigo.svg"
+    },
+    "dribbble": {
+      "codepoint": 61725,
+      "source": "justvector/dribbble.svg"
+    },
+    "dropbox": {
+      "codepoint": 61726,
+      "source": "justvector/dropbox.svg"
+    },
+    "drupal": {
+      "codepoint": 61727,
+      "source": "justvector/drupal.svg"
+    },
+    "dzone": {
+      "codepoint": 61728,
+      "source": "justvector/dzone.svg"
+    },
+    "ebay": {
+      "codepoint": 61729,
+      "source": "justvector/ebay.svg"
+    },
+    "ember": {
+      "codepoint": 61730,
+      "source": "justvector/ember.svg"
+    },
+    "etsy": {
+      "codepoint": 61731,
+      "source": "justvector/etsy.svg"
+    },
+    "evernote": {
+      "codepoint": 61732,
+      "source": "justvector/evernote.svg"
+    },
+    "facebook": {
+      "codepoint": 61733,
+      "source": "justvector/facebook.svg"
+    },
+    "facebook_alt": {
+      "codepoint": 61734,
+      "source": "justvector/facebook_alt.svg"
+    },
+    "facebook_places": {
+      "codepoint": 61735,
+      "source": "justvector/facebook_places.svg"
+    },
+    "facto-me": {
+      "codepoint": 61736,
+      "source": "justvector/facto.me.svg"
+    },
+    "feedburner": {
+      "codepoint": 61737,
+      "source": "justvector/feedburner.svg"
+    },
+    "flickr": {
+      "codepoint": 61738,
+      "source": "justvector/flickr.svg"
+    },
+    "folkd": {
+      "codepoint": 61739,
+      "source": "justvector/folkd.svg"
+    },
+    "formspring": {
+      "codepoint": 61740,
+      "source": "justvector/formspring.svg"
+    },
+    "forrst": {
+      "codepoint": 61741,
+      "source": "justvector/forrst.svg"
+    },
+    "foursquare": {
+      "codepoint": 61742,
+      "source": "justvector/foursquare.svg"
+    },
+    "friendfeed": {
+      "codepoint": 61743,
+      "source": "justvector/friendfeed.svg"
+    },
+    "friendster": {
+      "codepoint": 61744,
+      "source": "justvector/friendster.svg"
+    },
+    "gdgt": {
+      "codepoint": 61745,
+      "source": "justvector/gdgt.svg"
+    },
+    "github": {
+      "codepoint": 61746,
+      "source": "justvector/github.svg"
+    },
+    "github_alt": {
+      "codepoint": 61747,
+      "source": "justvector/github_alt.svg"
+    },
+    "goodreads": {
+      "codepoint": 61748,
+      "source": "justvector/goodreads.svg"
+    },
+    "google": {
+      "codepoint": 61749,
+      "source": "justvector/google.svg"
+    },
+    "google_buzz": {
+      "codepoint": 61750,
+      "source": "justvector/google_buzz.svg"
+    },
+    "google_talk": {
+      "codepoint": 61751,
+      "source": "justvector/google_talk.svg"
+    },
+    "gowalla": {
+      "codepoint": 61752,
+      "source": "justvector/gowalla.svg"
+    },
+    "gowalla_alt": {
+      "codepoint": 61753,
+      "source": "justvector/gowalla_alt.svg"
+    },
+    "grooveshark": {
+      "codepoint": 61754,
+      "source": "justvector/grooveshark.svg"
+    },
+    "hacker_news": {
+      "codepoint": 61755,
+      "source": "justvector/hacker_news.svg"
+    },
+    "hype_machine": {
+      "codepoint": 61757,
+      "source": "justvector/hype_machine.svg"
+    },
+    "hyves": {
+      "codepoint": 61758,
+      "source": "justvector/hyves.svg"
+    },
+    "icq": {
+      "codepoint": 61759,
+      "source": "justvector/icq.svg"
+    },
+    "identi-ca": {
+      "codepoint": 61760,
+      "source": "justvector/identi.ca.svg"
+    },
+    "instapaper": {
+      "codepoint": 61761,
+      "source": "justvector/instapaper.svg"
+    },
+    "itunes": {
+      "codepoint": 61762,
+      "source": "justvector/itunes.svg"
+    },
+    "kik": {
+      "codepoint": 61763,
+      "source": "justvector/kik.svg"
+    },
+    "krop": {
+      "codepoint": 61764,
+      "source": "justvector/krop.svg"
+    },
+    "last-fm": {
+      "codepoint": 61765,
+      "source": "justvector/last.fm.svg"
+    },
+    "linkedin": {
+      "codepoint": 61766,
+      "source": "justvector/linkedin.svg"
+    },
+    "linkedin_alt": {
+      "codepoint": 61767,
+      "source": "justvector/linkedin_alt.svg"
+    },
+    "livejournal": {
+      "codepoint": 61768,
+      "source": "justvector/livejournal.svg"
+    },
+    "lovedsgn": {
+      "codepoint": 61769,
+      "source": "justvector/lovedsgn.svg"
+    },
+    "meetup": {
+      "codepoint": 61770,
+      "source": "justvector/meetup.svg"
+    },
+    "metacafe": {
+      "codepoint": 61771,
+      "source": "justvector/metacafe.svg"
+    },
+    "ming": {
+      "codepoint": 61772,
+      "source": "justvector/ming.svg"
+    },
+    "mister_wong": {
+      "codepoint": 61773,
+      "source": "justvector/mister_wong.svg"
+    },
+    "mixx": {
+      "codepoint": 61774,
+      "source": "justvector/mixx.svg"
+    },
+    "mixx_alt": {
+      "codepoint": 61775,
+      "source": "justvector/mixx_alt.svg"
+    },
+    "mobileme": {
+      "codepoint": 61776,
+      "source": "justvector/mobileme.svg"
+    },
+    "msn_messenger": {
+      "codepoint": 61777,
+      "source": "justvector/msn_messenger.svg"
+    },
+    "myspace": {
+      "codepoint": 61778,
+      "source": "justvector/myspace.svg"
+    },
+    "myspace_alt": {
+      "codepoint": 61779,
+      "source": "justvector/myspace_alt.svg"
+    },
+    "newsvine": {
+      "codepoint": 61780,
+      "source": "justvector/newsvine.svg"
+    },
+    "official-fm": {
+      "codepoint": 61781,
+      "source": "justvector/official.fm.svg"
+    },
+    "openid": {
+      "codepoint": 61782,
+      "source": "justvector/openid.svg"
+    },
+    "orkut": {
+      "codepoint": 61783,
+      "source": "justvector/orkut.svg"
+    },
+    "pandora": {
+      "codepoint": 61784,
+      "source": "justvector/pandora.svg"
+    },
+    "path": {
+      "codepoint": 61785,
+      "source": "justvector/path.svg"
+    },
+    "paypal": {
+      "codepoint": 61786,
+      "source": "justvector/paypal.svg"
+    },
+    "photobucket": {
+      "codepoint": 61787,
+      "source": "justvector/photobucket.svg"
+    },
+    "picasa": {
+      "codepoint": 61788,
+      "source": "justvector/picasa.svg"
+    },
+    "picassa": {
+      "codepoint": 61789,
+      "source": "justvector/picassa.svg"
+    },
+    "pinboard-in": {
+      "codepoint": 61790,
+      "source": "justvector/pinboard.in.svg"
+    },
+    "ping": {
+      "codepoint": 61791,
+      "source": "justvector/ping.svg"
+    },
+    "pingchat": {
+      "codepoint": 61792,
+      "source": "justvector/pingchat.svg"
+    },
+    "playstation": {
+      "codepoint": 61793,
+      "source": "justvector/playstation.svg"
+    },
+    "plixi": {
+      "codepoint": 61794,
+      "source": "justvector/plixi.svg"
+    },
+    "plurk": {
+      "codepoint": 61795,
+      "source": "justvector/plurk.svg"
+    },
+    "podcast": {
+      "codepoint": 61796,
+      "source": "justvector/podcast.svg"
+    },
+    "posterous": {
+      "codepoint": 61797,
+      "source": "justvector/posterous.svg"
+    },
+    "qik": {
+      "codepoint": 61798,
+      "source": "justvector/qik.svg"
+    },
+    "quik": {
+      "codepoint": 61799,
+      "source": "justvector/quik.svg"
+    },
+    "quora": {
+      "codepoint": 61800,
+      "source": "justvector/quora.svg"
+    },
+    "rdio": {
+      "codepoint": 61801,
+      "source": "justvector/rdio.svg"
+    },
+    "readernaut": {
+      "codepoint": 61802,
+      "source": "justvector/readernaut.svg"
+    },
+    "reddit": {
+      "codepoint": 61803,
+      "source": "justvector/reddit.svg"
+    },
+    "retweet": {
+      "codepoint": 61804,
+      "source": "justvector/retweet.svg"
+    },
+    "robo-to": {
+      "codepoint": 61805,
+      "source": "justvector/robo.to.svg"
+    },
+    "rss": {
+      "codepoint": 61806,
+      "source": "justvector/rss.svg"
+    },
+    "scribd": {
+      "codepoint": 61807,
+      "source": "justvector/scribd.svg"
+    },
+    "sharethis": {
+      "codepoint": 61808,
+      "source": "justvector/sharethis.svg"
+    },
+    "simplenote": {
+      "codepoint": 61809,
+      "source": "justvector/simplenote.svg"
+    },
+    "skype": {
+      "codepoint": 61810,
+      "source": "justvector/skype.svg"
+    },
+    "slashdot": {
+      "codepoint": 61811,
+      "source": "justvector/slashdot.svg"
+    },
+    "slideshare": {
+      "codepoint": 61812,
+      "source": "justvector/slideshare.svg"
+    },
+    "smugmug": {
+      "codepoint": 61813,
+      "source": "justvector/smugmug.svg"
+    },
+    "soundcloud": {
+      "codepoint": 61814,
+      "source": "justvector/soundcloud.svg"
+    },
+    "spotify": {
+      "codepoint": 61815,
+      "source": "justvector/spotify.svg"
+    },
+    "squarespace": {
+      "codepoint": 61816,
+      "source": "justvector/squarespace.svg"
+    },
+    "squidoo": {
+      "codepoint": 61817,
+      "source": "justvector/squidoo.svg"
+    },
+    "steam": {
+      "codepoint": 61818,
+      "source": "justvector/steam.svg"
+    },
+    "stumbleupon": {
+      "codepoint": 61819,
+      "source": "justvector/stumbleupon.svg"
+    },
+    "technorati": {
+      "codepoint": 61820,
+      "source": "justvector/technorati.svg"
+    },
+    "threewords-me": {
+      "codepoint": 61821,
+      "source": "justvector/threewords.me.svg"
+    },
+    "tribe-net": {
+      "codepoint": 61822,
+      "source": "justvector/tribe.net.svg"
+    },
+    "tripit": {
+      "codepoint": 61823,
+      "source": "justvector/tripit.svg"
+    },
+    "tumblr": {
+      "codepoint": 61824,
+      "source": "justvector/tumblr.svg"
+    },
+    "twitter": {
+      "codepoint": 61825,
+      "source": "justvector/twitter.svg"
+    },
+    "twitter_alt": {
+      "codepoint": 61826,
+      "source": "justvector/twitter_alt.svg"
+    },
+    "vcard": {
+      "codepoint": 61827,
+      "source": "justvector/vcard.svg"
+    },
+    "viddler": {
+      "codepoint": 61828,
+      "source": "justvector/viddler.svg"
+    },
+    "vimeo": {
+      "codepoint": 61829,
+      "source": "justvector/vimeo.svg"
+    },
+    "virb": {
+      "codepoint": 61830,
+      "source": "justvector/virb.svg"
+    },
+    "w3": {
+      "codepoint": 61831,
+      "source": "justvector/w3.svg"
+    },
+    "whatsapp": {
+      "codepoint": 61832,
+      "source": "justvector/whatsapp.svg"
+    },
+    "wikipedia": {
+      "codepoint": 61833,
+      "source": "justvector/wikipedia.svg"
+    },
+    "windows": {
+      "codepoint": 61834,
+      "source": "justvector/windows.svg"
+    },
+    "wists": {
+      "codepoint": 61835,
+      "source": "justvector/wists.svg"
+    },
+    "wordpress": {
+      "codepoint": 61836,
+      "source": "justvector/wordpress.svg"
+    },
+    "wordpress_alt": {
+      "codepoint": 61837,
+      "source": "justvector/wordpress_alt.svg"
+    },
+    "xing": {
+      "codepoint": 61838,
+      "source": "justvector/xing.svg"
+    },
+    "yahoo-": {
+      "codepoint": 61839,
+      "source": "justvector/yahoo!.svg"
+    },
+    "yahoo-_buzz": {
+      "codepoint": 61840,
+      "source": "justvector/yahoo!_buzz.svg"
+    },
+    "yahoo-_messenger": {
+      "codepoint": 61841,
+      "source": "justvector/yahoo!_messenger.svg"
+    },
+    "yelp": {
+      "codepoint": 61842,
+      "source": "justvector/yelp.svg"
+    },
+    "youtube": {
+      "codepoint": 61843,
+      "source": "justvector/youtube.svg"
+    },
+    "youtube_alt": {
+      "codepoint": 61844,
+      "source": "justvector/youtube_alt.svg"
+    },
+    "zerply": {
+      "codepoint": 61845,
+      "source": "justvector/zerply.svg"
+    },
+    "zootool": {
+      "codepoint": 61846,
+      "source": "justvector/zootool.svg"
+    },
+    "zynga": {
+      "codepoint": 61847,
+      "source": "justvector/zynga.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".jv-{{glyph}}",
+    "debug": false,
+    "font_name": "JustVector",
+    "force": false,
+    "input": {
+      "templates": "justvector",
+      "vectors": "justvector"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "output/stylesheets",
+      "fonts": "output/fonts",
+      "preview": "output/styleguide"
+    },
+    "preprocessor_path": "",
+    "quiet": false,
+    "templates": [
+      "scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "output/stylesheets/_JustVector.scss",
+    "output/styleguide/JustVector-preview.html"
+  ]
+}

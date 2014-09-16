@@ -1,0 +1,20 @@
+font_name: JustVector
+css_selector: .jv-{{glyph}}
+preprocessor_path: ""
+autowidth: false
+no_hash: false
+force: false
+debug: false
+quiet: false
+
+input:
+  vectors: justvector
+
+output:
+  fonts: output/fonts
+  css: output/stylesheets
+  preview: output/styleguide
+
+templates:
+ - scss
+ - preview
